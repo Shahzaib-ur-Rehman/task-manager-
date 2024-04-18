@@ -4,9 +4,9 @@ Task Manager is a simple project designed to manage tasks with full CRUD (Create
 
 ## Features
 
-- Create tasks: Users can add new tasks to the system, specifying details such as title, description, priority, and due date.
-- View tasks: Tasks can be viewed in a list format, showing important details like title, description, priority, and due date.
-- Update tasks: Users can modify existing tasks, including changing title, description, priority, or due date.
+- Create tasks: Users can add new tasks to the system, specifying details such as title and status.
+- View tasks: Tasks can be viewed in a list format, showing important details like title and status.
+- Update tasks: Users can modify existing tasks, including changing title,and status.
 - Delete tasks: Tasks that are no longer needed can be easily deleted from the system.
 - Error handling: The system includes robust error handling mechanisms to gracefully handle errors and provide informative feedback to users.
 
